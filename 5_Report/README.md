@@ -99,3 +99,18 @@ It could even start a fire in the cushion. To prevent this, most car seat heater
 certain temperature, the thermostat sends a signal, automatically turning off the relay until the seat cools down a bit. At that point, the thermostat turns the relay back on
 again. Many seat cushions also have “high” and “low” settings that let the driver control the temperature of the seat cushions.
 
+DESIGN:-
+=================================================================================================================================================================================
+Behavioral Diagram:
+=================================================================================================================================================================================
+![behavioural diag of seat heating system](https://user-images.githubusercontent.com/94159244/144365904-13e399c2-ff4a-4811-a9d7-d55656878fee.png)
+
+Structural Diagram:
+=================================================================================================================================================================================
+![structural diag of seat heating system](https://user-images.githubusercontent.com/94159244/144366063-9c3ea611-a20b-405b-8539-54dd49c926d9.png)
+
+Block Diagram:
+=================================================================================================================================================================================
+![block diagram](https://user-images.githubusercontent.com/94159244/144366183-60dacee1-5d17-4f9a-b577-f209735e6e82.jpeg)
+
+
