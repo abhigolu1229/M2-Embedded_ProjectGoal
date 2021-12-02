@@ -1,4 +1,4 @@
-*Introduction*:
+Introduction:
 =================================================================================================================================================================================
 The heat control system is basically used to control the temperature of a car seat. When a user or driver of the car gets seated on a car, the button sensor gets activated. 
 After that, the user gets access to turn on the heater. The temperature sensor keeps monitoring the temperature and sends the analog value to the microcontroller. 
@@ -10,6 +10,10 @@ Research:
 Seat warmers were first introduced by Cadillac in 1966 to help with backaches. Some vehicles come with car seat warmers, which heat up the seat with the push of a button. 
 Normally the buttons are located on the side of the driver and passenger door. In some vehicles, just the bottom of the seat warms up, where in others both the bottom and back
 warm up.
+
+![71ZG6fvnCUL _AC_SL1500_](https://user-images.githubusercontent.com/94159244/144363956-eab3d731-a945-4152-98ee-638fc134975a.jpg)
+
+
 
 Benefits:
 =================================================================================================================================================================================
